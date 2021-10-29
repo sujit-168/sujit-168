@@ -27,9 +27,9 @@ Here are some ideas to get you started:
   <img align="left" alt="sujit-168's Github Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujit-168&layout=compact" />
 </details>
 
-### Contact
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 
+### Contact
 - Email: [admin@sujie-168.top](mailto:2514605767@qq.com)
 - Twitter: [@sujit](https://twitter.com/sujit)
 
