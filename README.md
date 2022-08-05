@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Contact
-- Email: [admin@sujie-168.top](mailto:2514605767@qq.com)
-- Twitter: [@sujit](https://twitter.com/168Sujit)
+- Email: [admin@sujie-168.top](mailto:su2054552689@gmail.com)
 
 
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
