@@ -1,27 +1,44 @@
-### Hi there 👋
+### Hi there 👋  I'm <a href="https://bento.me/jitsu">JIT_SU</a>
 
-<!--
-**sujit-168/sujit-168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
 
-Here are some ideas to get you started:
+<table>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img align="center" name="sujit-168's github stats" src="https://github-readme-stats.vercel.app/api?username=sujit-168&show_icons=true" />
+      </a>
+    </td>
+<td align="left">
+            <div align="center">Recent</div>
+            <ul>
+                <li>🤭 Hi, I’m sujit.</li>
+                <li>🔭 I’m interested in coding and exploring new Robotic technologies.</li>
+                <li>💰 I am now a robotics software engineer in <a href="https://github.com/tianbot">Tianbot</a>.</li>
+                <li>🏡 My blog: <a href="https://sujie-168.top" rel="nofollow">JIT_SU'blog</a>, you're welcome to come!~ </li>
+            </ul>
+        </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Tools
+
+<p dir="auto">
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="20" src="https://avatars.githubusercontent.com/u/547448?s=200&v=4" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="20" src="=https://avatars.githubusercontent.com/u/3979232?s=200&v=4" style="max-width: 100%;"></a></code>
+</p>
+
 
 ### Contact
-- Email: [admin@sujie-168.top](mailto:su2054552689@gmail.com)
+- Email: [sujit](mailto:su2054552689@gmail.com)
 
 
-<hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
-                                                                         
-<details>
-  <summary>:zap: Github Stats </summary>
-  <img align="left" alt="sujit-168's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujit-168&show_icons=true&hide_border=true" />
-</details>
+### Some Projects
+
+<a href="https://github.com/sujit-168/Stereo_camera">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sujit-168&repo=Stereo_camera" />
+</a>
