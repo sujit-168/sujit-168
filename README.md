@@ -13,7 +13,7 @@
 <td align="left">
             <div align="center">Recent</div>
             <ul>
-                <li>🤭 Hi, I’m sujit.</li>
+                <li>🤭 I’m Robotics enthusiasts.</li>
                 <li>🔭 I’m interested in coding and exploring new Robotic technologies.</li>
                 <li>💰 I am now a robotics software engineer in <a href="https://github.com/tianbot">Tianbot</a>.</li>
                 <li>🏡 My Note: <a href="https://sujie-168.top" rel="nofollow">JIT_SU'blog</a>, you're welcome to come!~ </li>
