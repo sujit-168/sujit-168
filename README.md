@@ -24,12 +24,15 @@
 
 ### Languages & Tools
 
-<p dir="auto">
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/topics/cpp"><img height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/topics/python"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/topics/html"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/ros"><img height="20" src="https://raw.githubusercontent.com/ros-infrastructure/www.ros.org/main/content/favicon.ico" style="max-width: 100%;"></a></code>
-</p>
+<!--  <p dir="auto"> -->
+
+<div style="flex">
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/topics/cpp"><img height="40" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/topics/python"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/topics/html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/ros"><img height="40" src="https://raw.githubusercontent.com/ros-infrastructure/www.ros.org/main/content/favicon.ico" style="max-width: 100%;"></a></code>
+</div>
+<!-- </p> -->
 
 
 ### Contact
