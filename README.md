@@ -31,16 +31,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="html5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode"/>
-<img src="https://raw.githubusercontent.com/ros-infrastructure/www.ros.org/main/content/favicon.ico" width="40" height="40" alt="ros"/> 
-<img src="https://raw.githubusercontent.com/ros2/ros2_documentation/humble/favicon.ico" width="40" height="40" alt="ros2"/> 
-<img src="https://opencv.b-cdn.net/wp-content/uploads/2022/05/logo.png" width="40" height="40" alt="opencv"/> 
+<img src="https://raw.githubusercontent.com/ros-infrastructure/www.ros.org/main/content/favicon.ico" width="40" height="40" alt="ros & ros2"/> 
+<img src="https://raw.githubusercontent.com/opencv/opencv/4.x/doc/opencv-logo.png" width="40" height="40" alt="opencv"/> 
 
 </div>
 
-
 ### Contact
 - Email: [sujit](mailto:su2054552689@gmail.com)
-
 
 ### Some Projects
 
