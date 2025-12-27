@@ -1,25 +1,13 @@
 ### Hi there 👋  I'm <a href="https://bento.me/jitsu">sujit</a>
 
-<br/>
-<br/>
-
+### About Me
 <table>
-  <tr align="center">
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-        <img align="center" name="sujit-168's github stats" src="https://github-readme-stats.vercel.app/api?username=sujit-168&show_icons=true" />
-      </a>
-    </td>
-<td align="left">
-            <div align="center">Recent</div>
-            <ul>
-                <li>🤭 I’m Robotics enthusiasts.</li>
-                <li>🔭 I’m interested in coding and exploring new Robotic technologies.</li>
-                <li>💰 I am now a robotics software engineer.</li>
-                <li>🏡 My Note: <a href="https://blog.sujie-168.top" rel="nofollow">JIT_SU'blog</a>, you're welcome to come!~ </li>
-            </ul>
-        </td>
-  </tr>
+    <ul>
+        <li>🤭 I’m Robotics enthusiasts.</li>
+        <li>🔭 I’m interested in coding and exploring new Robotic technologies.</li>
+        <li>💰 I am now a robotics software engineer.</li>
+        <li>🏡 My Note: <a href="https://blog.sujie-168.top" rel="nofollow">JIT_SU'blog</a>, you're welcome to come!~ </li>
+    </ul>
 </table>
 
 ### Languages & Tools
@@ -44,3 +32,24 @@
 <a href="https://github.com/sujit-168/Stereo_camera">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sujit-168&repo=Stereo_camera" />
 </a>
+
+### GitHub Data Analysis
+
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table>
+  <tr>
+    <td>
+      <picture>github-readme-activity-graph-git-main-sujit168s-projects.vercel.app
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=sujit-168&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sujit-168&theme=xcode" />
+        <img src="github-readme-activity-graph-omega-two.vercel.app/graph?username=sujit-168&theme=tokyo-night" />
+      </picture>
+  </tr>
+</table>
+
+<!-- profile-3d-contrib 3D 贡献图-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="/profile-night-rainbow.svg" />
+</picture>
